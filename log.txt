@@ -1,0 +1,7 @@
+pre_openRfa(): D:\Build Data\Battlefield Vietnam Patches 1.2\Battlefield Vietnam Patch files\Common\Mods\bfvietnam\Archives\Bfvietnam\Levels\Saigon68.rfa
+extract: BfVietnam/levels/Saigon68/Conquest/ObjectSpawnTemplates.con
+- Extraction completed
+extract: BfVietnam/levels/Saigon68/Conquest/ObjectSpawns.con
+- Extraction completed
+extract: BfVietnam/levels/Saigon68/Conquest/ObjectSpawns.con
+- Extraction completed
